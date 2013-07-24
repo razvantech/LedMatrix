@@ -1,0 +1,7 @@
+LedMatrix  	KEYWORD1
+make			KEYWORD2
+setMatrix		KEYWORD3
+drawSquare		KEYWORD4
+drawDot			KEYWORD5
+drawDotOver 	KEYWORD6
+clearDotOver	KEYWORD7
